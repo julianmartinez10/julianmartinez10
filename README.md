@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianmartinez10
 - 👀 I’m interested in many things, sports, self-care/improvement, family.
-- 🌱 I’m currently learning Python and continue practicing algos.
+- 🌱 I’m currently learning Full Stack Web Dev - Java and continue practicing algos.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
